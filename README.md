@@ -25,3 +25,12 @@ Then i have create forms with tkinter package.
 
 ![output_screenshot](https://user-images.githubusercontent.com/41814503/79956263-88ea2680-849d-11ea-9e6c-13df811a5e48.JPG)
 
+
+
+
+
+
+
+![output_screenshot2](https://user-images.githubusercontent.com/41814503/79956453-cd75c200-849d-11ea-9b1a-aa91de9b63eb.JPG)
+
+
