@@ -21,3 +21,7 @@ After crreating these two tables , one has to link them with your python file.
 
 
 Then i have create forms with tkinter package.
+
+
+![output_screenshot](https://user-images.githubusercontent.com/41814503/79956263-88ea2680-849d-11ea-9e6c-13df811a5e48.JPG)
+
